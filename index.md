@@ -6,6 +6,11 @@
 - MIT
 - IIT
 
+## Experience
+
+- Amazon (2019-2020)
+- Worked as a senior project manager
+
 ### [Project 1 : Housing Prices Calculator](https://www.markdownguide.org/basic-syntax/#links)
 
 - Lorem Ipsum is simply dummy text of the printing and typesetting industry.
